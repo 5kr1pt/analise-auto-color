@@ -17,7 +17,7 @@ Esta análise detalha as técnicas, funcionalidades e impactos do malware **Auto
 5. [Comparação com Outras Ameaças Semelhantes](#5-comparação-com-outras-ameaças-semelhantes)
 
 ---
-
+## Fluxo de Ataque
 ![Descrição da imagem](fluxo_de_ataque.png)
 
 ---
